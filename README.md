@@ -8,9 +8,13 @@ You need a free GitHub account.
 
 1. Click [**Open in Codespaces**](https://codespaces.new/vedantchandra/srmp-gaia?quickstart=1), then
    **Create codespace**. The first start takes 2–3 minutes.
-2. Click a notebook in the file list on the left (`python_basics.ipynb` opens by itself).
+2. Wait until the setup in the bottom panel finishes, then click a notebook (e.g.
+   `python_basics.ipynb`) in the file list on the left.
 3. If it asks you to pick a kernel, choose **Python Environments → Python 3.12**.
 4. Run a cell with **Shift + Enter**.
+
+If a notebook shows up as a page of code text (starting with `{ "cells": [`), close that tab,
+then right-click the file → **Open With… → Jupyter Notebook**.
 
 Your work is saved in the codespace. Next time, go to
 [github.com/codespaces](https://github.com/codespaces) and open the same one again.
