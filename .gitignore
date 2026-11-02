@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.aux
+*.log
+*.nav
+*.snm
+*.toc
+*.out
+*.vrb
+*.fls
+*.fdb_latexmk

@@ -1,0 +1,9 @@
+# Packages for Codespaces and Colab. Keep in sync with environment.yml (used for local conda installs).
+numpy
+scipy
+matplotlib
+pandas
+astropy
+astroquery
+jupyterlab
+ipykernel
